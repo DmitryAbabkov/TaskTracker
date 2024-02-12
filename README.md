@@ -1,5 +1,5 @@
 # yarn project
-![CI](https://github.com/DmitryAbabkov/TaskTracker/actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/DmitryAbabkov/TaskTracker/actions/workflows/main.yml/badge.svg)
 
 # ahj
 
